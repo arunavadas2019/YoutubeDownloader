@@ -25,19 +25,17 @@ Python dependencies are listed in [requirements.txt](requirements.txt). PyInstal
 
 ## Setup
 
-Open PowerShell in the project directory and create the virtual environment:
+Open Command Prompt in the project directory and create the virtual environment:
 
-```powershell
+```Command Prompt
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
-
-If PowerShell blocks activation, run the application directly with the virtual-environment interpreter instead:
-
-```powershell
-.\.venv\Scripts\python.exe src\app.py
+Start the App:
+```Command Prompt
+py src\app.py
 ```
 
 ## FFmpeg Setup
