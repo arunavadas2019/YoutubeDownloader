@@ -2,6 +2,8 @@
 
 A Windows desktop application for downloading multiple YouTube videos from a text file. It uses `yt-dlp`, supports selectable output resolutions, converts video downloads to MP4, and can extract audio as MP3.
 
+Download Executable [YouTube Downloader](./dist/app.exe)
+
 ## Features
 
 - Download multiple URLs from a text file
