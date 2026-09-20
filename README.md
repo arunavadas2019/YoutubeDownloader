@@ -35,7 +35,7 @@ python -m pip install -r requirements.txt
 ```
 Start the App:
 ```Command Prompt
-py src\app.py
+py src\app.py 
 ```
 
 ## FFmpeg Setup
